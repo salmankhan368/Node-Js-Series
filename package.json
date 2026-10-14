@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Day4/server/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

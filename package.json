@@ -1,11 +1,25 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning Node.js step by step: daily practice, small projects, and notes (HTTP, Express, MongoDB)",
   "main": "index.js",
   "scripts": {
-    "start": "node Day4/server/index.js"
+   
+    "start": "node Day6/expres.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmankhan368/Node-Js-Series.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/salmankhan368/Node-Js-Series/issues"
+  },
+  "homepage": "https://github.com/salmankhan368/Node-Js-Series#readme"
 }
